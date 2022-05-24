@@ -1,5 +1,6 @@
 # MechaCar_Statistical_Analysis
 
+[Project Folder](https://github.com/HartChrisT/MechaCar_Statistical_Analysis/edit/main/project_folder)
 ## Linear Regression to Predict MPG
 
 ![deliverable_1](https://user-images.githubusercontent.com/92996865/161465221-8f352093-9a72-4e75-8271-0393568a7873.png)
